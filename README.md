@@ -5,3 +5,5 @@ The problem is at first approached in two dimensions, dealing with the cross-sec
 Results are then extended to three dimensions, taking blade rotation and relative wind speed into consideration. The work builds on classical airfoil theory techniques, as covered in textbooks by M.T Milne-Thomson, D.J Acheson and John D. Anderson Jr.
 
 Calculations neglect boundary layer separation and the resulting turbulent airflow, and assumes sensor data is used to optimally align the turbine’s blades with the wind. Relevant visuals, including those of the Joukowsky transform in action, are created in bothDesmos and MATLAB. The latter is also used for numerical approximations where appropriate.
+
+<img width="2000" height="2827" alt="image" src="https://github.com/user-attachments/assets/e1201179-ab57-4335-8ce8-22c5d8c3b65b" />
